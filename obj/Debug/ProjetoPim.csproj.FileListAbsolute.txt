@@ -1,0 +1,11 @@
+D:\DuPina\Perfil\OneDrive\Unip\Materias\Semestre3\Programacao\ProjetoPim\WindowsFormsApp1\ProjetoPim\bin\Debug\ProjetoPim.exe.config
+D:\DuPina\Perfil\OneDrive\Unip\Materias\Semestre3\Programacao\ProjetoPim\WindowsFormsApp1\ProjetoPim\bin\Debug\ProjetoPim.exe
+D:\DuPina\Perfil\OneDrive\Unip\Materias\Semestre3\Programacao\ProjetoPim\WindowsFormsApp1\ProjetoPim\bin\Debug\ProjetoPim.pdb
+D:\DuPina\Perfil\OneDrive\Unip\Materias\Semestre3\Programacao\ProjetoPim\WindowsFormsApp1\ProjetoPim\obj\Debug\ProjetoPim.csprojAssemblyReference.cache
+D:\DuPina\Perfil\OneDrive\Unip\Materias\Semestre3\Programacao\ProjetoPim\WindowsFormsApp1\ProjetoPim\obj\Debug\ProjetoPim.frmPim.resources
+D:\DuPina\Perfil\OneDrive\Unip\Materias\Semestre3\Programacao\ProjetoPim\WindowsFormsApp1\ProjetoPim\obj\Debug\ProjetoPim.frmMain.resources
+D:\DuPina\Perfil\OneDrive\Unip\Materias\Semestre3\Programacao\ProjetoPim\WindowsFormsApp1\ProjetoPim\obj\Debug\ProjetoPim.Properties.Resources.resources
+D:\DuPina\Perfil\OneDrive\Unip\Materias\Semestre3\Programacao\ProjetoPim\WindowsFormsApp1\ProjetoPim\obj\Debug\ProjetoPim.csproj.GenerateResource.cache
+D:\DuPina\Perfil\OneDrive\Unip\Materias\Semestre3\Programacao\ProjetoPim\WindowsFormsApp1\ProjetoPim\obj\Debug\ProjetoPim.csproj.CoreCompileInputs.cache
+D:\DuPina\Perfil\OneDrive\Unip\Materias\Semestre3\Programacao\ProjetoPim\WindowsFormsApp1\ProjetoPim\obj\Debug\ProjetoPim.exe
+D:\DuPina\Perfil\OneDrive\Unip\Materias\Semestre3\Programacao\ProjetoPim\WindowsFormsApp1\ProjetoPim\obj\Debug\ProjetoPim.pdb
